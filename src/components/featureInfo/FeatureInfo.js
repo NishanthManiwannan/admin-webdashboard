@@ -10,7 +10,7 @@ function FeatureInfo() {
                 <span className="featuredTitle">Revenue</span>
                 <div className="featuredMoneyContainer">
 
-                    <span className="featuredMoney">2.452$</span>
+                    <span className="featuredMoney">2.452 $</span>
                     <span className="featuredMoneyRate">-11.5% <ExpandMore className='featureIcon negative'></ExpandMore></span>
 
                 </div>
@@ -24,7 +24,7 @@ function FeatureInfo() {
                 <span className="featuredTitle">Sales</span>
                 <div className="featuredMoneyContainer">
 
-                    <span className="featuredMoney">2.452$</span>
+                    <span className="featuredMoney">2.452 $</span>
                     <span className="featuredMoneyRate">+11.5% <ExpandLess className='featureIcon'></ExpandLess></span>
 
                 </div>
@@ -38,7 +38,7 @@ function FeatureInfo() {
                 <span className="featuredTitle">Cost</span>
                 <div className="featuredMoneyContainer">
 
-                    <span className="featuredMoney">2.452$</span>
+                    <span className="featuredMoney">2.452 $</span>
                     <span className="featuredMoneyRate">-11.5% <ExpandMore className='featureIcon negative'></ExpandMore></span>
 
                 </div>
